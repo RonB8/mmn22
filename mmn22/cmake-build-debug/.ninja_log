@@ -1,0 +1,16 @@
+# ninja log v5
+2	120	6946341943489020	CMakeFiles/mmn22.dir/main.c.obj	17446959792aaecc
+90	187	6946450103482393	mmn22.exe	fb4af4b5dd1a5d97
+10	148	6946341943800515	CMakeFiles/mmn22.dir/commands.c.obj	58f0f3274930b97
+3	89	6946450102569146	CMakeFiles/mmn22.dir/readFields.c.obj	c392502a6f1d9d80
+11	97	6946440879686590	CMakeFiles/mmn22.dir/textProcessing.c.obj	2d90c140669048f4
+2	214	6946348717295901	build.ninja	d30622f24446d886
+2	83	6946443932479580	CMakeFiles/mmn22.dir/myset.c.obj	a4a2f4e6a1debda7
+7	100	6946440879718957	CMakeFiles/mmn22.dir/set.c.obj	afbe6de9ab1c5ff6
+2	75	6946453083495808	CMakeFiles/mmn22.dir/readFields.c.obj	c392502a6f1d9d80
+76	166	6946453084344930	mmn22.exe	fb4af4b5dd1a5d97
+15	124	6946533027161268	CMakeFiles/mmn22.dir/readFields.c.obj	c392502a6f1d9d80
+2	137	6946533027161268	CMakeFiles/mmn22.dir/myset.c.obj	a4a2f4e6a1debda7
+11	141	6946533027296764	CMakeFiles/mmn22.dir/textProcessing.c.obj	2d90c140669048f4
+6	159	6946533027545505	CMakeFiles/mmn22.dir/set.c.obj	afbe6de9ab1c5ff6
+160	364	6946533029544258	mmn22.exe	fb4af4b5dd1a5d97
